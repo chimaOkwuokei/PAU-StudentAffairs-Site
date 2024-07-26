@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Wireless Headphones",
+        "price": 59.99,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1580894908361-8d8a0f646eb2",
+        "title": "Bluetooth Wireless Headphones"
+    },
+    {
+        "name": "Smartwatch",
+        "price": 129.99,
+        "category": "Wearables",
+        "image": "https://images.unsplash.com/photo-1581093588401-bccacb252c4f",
+        "title": "Advanced Smartwatch"
+    },
+    {
+        "name": "Gaming Laptop",
+        "price": 999.99,
+        "category": "Computers",
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+        "title": "High-Performance Gaming Laptop"
+    },
+    {
+        "name": "Electric Kettle",
+        "price": 24.99,
+        "category": "Home Appliances",
+        "image": "https://images.unsplash.com/photo-1556911220-e15b29be8cdd",
+        "title": "Fast-Boil Electric Kettle"
+    },
+    {
+        "name": "Yoga Mat",
+        "price": 19.99,
+        "category": "Fitness",
+        "image": "https://images.unsplash.com/photo-1600566752771-bf3bc35764d1",
+        "title": "Eco-Friendly Yoga Mat"
+    }
+]

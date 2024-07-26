@@ -1,0 +1,22 @@
+[
+    {
+        "nameOfClub": "Science Club",
+        "school": "Pan-Atlantic University"
+    },
+    {
+        "nameOfClub": "Debate Team",
+        "school": "Harvard University"
+    },
+    {
+        "nameOfClub": "Robotics Club",
+        "school": "Massachusetts Institute of Technology"
+    },
+    {
+        "nameOfClub": "Art Society",
+        "school": "Yale University"
+    },
+    {
+        "nameOfClub": "Drama Club",
+        "school": "Stanford University"
+    }
+]
